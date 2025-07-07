@@ -2,10 +2,14 @@
 
 * [Doythan Study Notes](README.md)
 
-## 자료구조
+## Data Structure
 
-* [Java Collection Framework와 Map 구조도](undefined/java-collection-framework-map.md)
+* [Java Collection Framework와 Map 구조도](data-structure/java-collection-framework-map.md)
 
-## 데이터베이스
+***
 
-* [SQL](undefined-1/sql.md)
+* [PriorityQueue(우선순위 큐)](priorityqueue.md)
+
+## Database
+
+* [SQL](database/sql.md)
