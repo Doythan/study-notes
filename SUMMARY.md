@@ -19,4 +19,4 @@
 
 ## Database
 
-* [SQL](database/sql.md)
+* [SQL (정처기 실기, 미완)](database/sql.md)
