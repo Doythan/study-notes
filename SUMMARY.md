@@ -16,6 +16,7 @@
   * [Vector (벡터)](data-structure/java-collection-framework-jcf/vector.md)
   * [ArrayList (배열)](data-structure/java-collection-framework-jcf/arraylist.md)
   * [LinkedList (연결리스트)](data-structure/java-collection-framework-jcf/linkedlist.md)
+  * [HashSet](data-structure/java-collection-framework-jcf/hashset.md)
 
 ## Database
 
