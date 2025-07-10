@@ -21,3 +21,9 @@
 ## Database
 
 * [SQL (정처기 실기, 미완)](database/sql.md)
+
+## Engineer Information Processing (정보처리기사)
+
+* [포인터](engineer-information-processing/undefined.md)
+* [programming problem](engineer-information-processing/programming-problem/README.md)
+  * [25년 정처기 실기 13회](engineer-information-processing/programming-problem/25-13.md)
