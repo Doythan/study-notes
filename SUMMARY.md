@@ -29,6 +29,11 @@
   * [25년 정처기 실기 13회](engineer-information-processing/programming-problem/25-13.md)
 * [응용 SW 기초 기술 활용](engineer-information-processing/sw.md)
 
-## Computer Network
+## Computer Network (컴퓨터 네트워크)
 
 * [네트워크 기본](computer-network/undefined.md)
+
+## operating system (운영체제)
+
+* [컴퓨터 구조](operating-system/undefined.md)
+* [운영체제](operating-system/undefined-1.md)
