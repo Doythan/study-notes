@@ -27,7 +27,9 @@
 * [포인터](engineer-information-processing/undefined.md)
 * [programming problem](engineer-information-processing/programming-problem/README.md)
   * [25년 정처기 실기 13회](engineer-information-processing/programming-problem/25-13.md)
-* [응용 SW 기초 기술 활용](engineer-information-processing/sw.md)
+* [응용 SW 기초 기술 활용 (11과목)](engineer-information-processing/sw-11/README.md)
+  * [응용 SW 기초 기술 활용 문제](engineer-information-processing/sw-11/sw.md)
+  * [11과목 정리본](engineer-information-processing/sw-11/11.md)
 
 ## Computer Network (컴퓨터 네트워크)
 
