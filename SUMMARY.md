@@ -20,7 +20,7 @@
 
 ## Database
 
-* [SQL (정처기 실기, 미완)](database/sql.md)
+* [SQL 응용 (7과목)](database/sql-7.md)
 
 ## Engineer Information Processing (정보처리기사)
 
