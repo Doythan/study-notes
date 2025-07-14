@@ -25,10 +25,9 @@
 ## Engineer Information Processing (정보처리기사)
 
 * [포인터](engineer-information-processing/undefined.md)
-* [programming problem](engineer-information-processing/programming-problem/README.md)
-  * [25년 정처기 실기 13회](engineer-information-processing/programming-problem/25-13.md)
+* [25년 정보처리기사 실기 1회](engineer-information-processing/25-1/README.md)
+  * [JAVA 문제들](engineer-information-processing/25-1/java.md)
 * [응용 SW 기초 기술 활용 (11과목)](engineer-information-processing/sw-11/README.md)
-  * [응용 SW 기초 기술 활용 문제](engineer-information-processing/sw-11/sw.md)
   * [11과목 정리본](engineer-information-processing/sw-11/11.md)
 
 ## Computer Network (컴퓨터 네트워크)
