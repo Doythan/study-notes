@@ -27,6 +27,8 @@
 * [응용 SW 기초 기술 활용 (11과목)](engineer-information-processing/sw-11/README.md)
   * [11과목 정리본](engineer-information-processing/sw-11/11.md)
 * [SQL 응용 (7과목)](engineer-information-processing/sql-7.md)
+* [요구사항 확인 (1과목)](engineer-information-processing/1/README.md)
+  * [디자인 패턴 (Design Pattern)](engineer-information-processing/1/design-pattern.md)
 
 ## Computer Network (컴퓨터 네트워크)
 
@@ -36,3 +38,7 @@
 
 * [컴퓨터 구조](operating-system/undefined.md)
 * [운영체제](operating-system/undefined-1.md)
+
+## System Design (시스템 설계)
+
+* [디자인 패턴(Design Pattern)](system-design/design-pattern.md)
