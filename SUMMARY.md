@@ -26,7 +26,9 @@
   * [JAVA 문제들](engineer-information-processing/25-1/java.md)
 * [응용 SW 기초 기술 활용 (11과목)](engineer-information-processing/sw-11/README.md)
   * [11과목 정리본](engineer-information-processing/sw-11/11.md)
-* [SQL 응용 (7과목)](engineer-information-processing/sql-7.md)
+* [SQL 응용 (7과목)](engineer-information-processing/sql-7/README.md)
+  * [7과목 정리본](engineer-information-processing/sql-7/7.md)
+  * [TCL, DDL, DML, DCL](engineer-information-processing/sql-7/tcl-ddl-dml-dcl.md)
 * [요구사항 확인 (1과목)](engineer-information-processing/1/README.md)
   * [디자인 패턴 (Design Pattern)](engineer-information-processing/1/design-pattern.md)
 
