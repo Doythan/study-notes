@@ -20,15 +20,13 @@
 
 ## Database
 
-* [SQL 응용 (7과목)](database/sql-7.md)
-
 ## Engineer Information Processing (정보처리기사)
 
-* [포인터](engineer-information-processing/undefined.md)
 * [25년 정보처리기사 실기 1회](engineer-information-processing/25-1/README.md)
   * [JAVA 문제들](engineer-information-processing/25-1/java.md)
 * [응용 SW 기초 기술 활용 (11과목)](engineer-information-processing/sw-11/README.md)
   * [11과목 정리본](engineer-information-processing/sw-11/11.md)
+* [SQL 응용 (7과목)](engineer-information-processing/sql-7.md)
 
 ## Computer Network (컴퓨터 네트워크)
 
