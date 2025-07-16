@@ -32,7 +32,7 @@
   * [TCL, DDL, DML, DCL](engineer-information-processing/sql-7/tcl-ddl-dml-dcl.md)
 * [요구사항 확인 (1과목)](engineer-information-processing/1/README.md)
   * [디자인 패턴 (Design Pattern)](engineer-information-processing/1/design-pattern.md)
-* [프로그래밍 언어 활용 (6과목)](engineer-information-processing/6.md)
+* [💻 프로그래밍 언어 활용 (6과목)](engineer-information-processing/6.md)
 
 ## Computer Network (컴퓨터 네트워크)
 
