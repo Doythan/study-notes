@@ -33,6 +33,8 @@
 * [요구사항 확인 (1과목)](engineer-information-processing/1/README.md)
   * [디자인 패턴 (Design Pattern)](engineer-information-processing/1/design-pattern.md)
 * [💻 프로그래밍 언어 활용 (6과목)](engineer-information-processing/6.md)
+* [🧪 애플리케이션 테스트케이스 설계 (10과목)](engineer-information-processing/10/README.md)
+  * [10과목 정리본](engineer-information-processing/10/10.md)
 
 ## Computer Network (컴퓨터 네트워크)
 
