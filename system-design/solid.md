@@ -10,6 +10,8 @@
 
 #### 1. SRP - 단일 책임 원칙 (Single Responsibility Principle)
 
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 * **클래스는 하나의 책임만 가져야 한다**
 * 책임이 많아질수록 클래스는 변경될 이유가 많아지고, 결합도도 상승함
 * → 객체의 "상태"와 "책임"을 명확히 구분해야 함
