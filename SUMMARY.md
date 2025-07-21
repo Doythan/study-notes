@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Doythan Study Notes](README.md)
+* [📔 Doythan Study Notes](README.md)
 
 ## Data Structure
 
