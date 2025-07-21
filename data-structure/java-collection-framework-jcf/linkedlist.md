@@ -18,7 +18,7 @@ JCF에서 연결 리스트를 구현한 게 바로 **LinkedList** 클래스
 #### 동작 원리
 
 ```java
-java복사편집List<String> list = new LinkedList<>();
+List<String> list = new LinkedList<>();
 list.add("A");
 list.add("B");
 list.add("C");
