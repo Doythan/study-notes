@@ -47,9 +47,14 @@
 
 ## System Design (시스템 설계)
 
-* [디자인 패턴(Design Pattern)](system-design/design-pattern.md)
+* [디자인 패턴(Design Pattern)](system-design/design-pattern/README.md)
+  * [Strategy(전략) 패턴](system-design/design-pattern/strategy.md)
+* [SOLID 원칙(객체지향설계)](system-design/solid.md)
 
 ## Programming Language
 
 * [JAVA](programming-language/java/README.md)
   * [JVM 구조와 자바 실행 원리](programming-language/java/jvm.md)
+  * [자바 메모리 구조](programming-language/java/undefined.md)
+  * [다형성과 동적 바인딩](programming-language/java/undefined-1.md)
+  * [추상클래스와 오버라이딩](programming-language/java/undefined-2.md)
